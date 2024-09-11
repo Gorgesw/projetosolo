@@ -1,0 +1,90 @@
+body {
+    font-family: "Open Sans";
+    margin: 88px 80px;
+
+}
+
+
+#titlePage p {
+
+    font-size: 16px;
+    color: #E1624F;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+#BusanDescription img {
+
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 24px;
+
+}
+
+#BusanDescription figcaption {
+
+    text-align: center;
+    font-style: italic;
+}
+
+#BusanDescription {
+
+    margin: 40px 0px;
+    margin-bottom: 40px;
+}
+
+#titlePage2 p {
+
+    font-size: 16px;
+    color: #E1624F;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+#Busandestinos p {
+     
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 64px;
+}
+
+#Busandestinos img {
+
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 24px;
+
+}
+
+#lista li::marker {
+
+    font-size: 30px ;
+    font-weight: bold;
+}
+
+#lista p {
+    font-size: 16px;
+
+}
+
+
+#Elementoslista {
+
+}
