@@ -4,6 +4,19 @@ body {
 
 }
 
+#container {
+ 
+        box-sizing: auto;
+        width: 800px;
+        padding: 24px;
+        background-color: #ffffff;
+        border-radius: 24px ;
+        margin: 48px auto 28px ;
+    }
+
+    #container2 {
+ background-color: #e6e6e6;
+    }
 
 #titlePage p {
 
@@ -73,18 +86,39 @@ h3 {
 
 }
 
-#lista li::marker {
 
-    font-size: 30px ;
-    font-weight: bold;
-}
 
-#lista p {
+
+#Lista p {
     font-size: 16px;
 
 }
 
 
-#Elementoslista {
+#Lista img {
+
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 24px;
+    margin-top: 30px;
 
 }
+
+#Lista ul {
+
+    list-style-type: disc;
+    
+}
+
+#fim p {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 64px;
+    margin-top: 100px;
+    font-size: 14px;
+}
+
+
+
+
+
